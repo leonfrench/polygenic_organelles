@@ -1,0 +1,38 @@
+cell_type,Organelle,Marker
+gene_symbol,gene_symbol,gene_symbol
+ACTB (actin),actin,ACTB
+ATG101 (autophagosome),autophagosome,ATG101
+ATP1B3 (plasma membrane),plasma membrane,ATP1B3
+CAPRIN1 (stress granule),stress granule,CAPRIN1
+CAV1 (plasma membrane),plasma membrane,CAV1
+CCDC47 (ER),ER,CCDC47
+CEP350 (centrosome),centrosome,CEP350
+CLTA (endosome),endosome,CLTA
+COG8 (Golgi),Golgi,COG8
+COPE (ER_Golgi),ER_Golgi,COPE
+DCP1A (p-body),p-body,DCP1A
+EDC4 (p-body),p-body,EDC4
+EEA1 (endosome),endosome,EEA1
+G3BP1 (stress granule),stress granule,G3BP1
+GOLGA2 (Golgi),Golgi,GOLGA2
+GPR107 (Golgi),Golgi,GPR107
+HSP90AA1 (HSP90 chaperone),HSP90 chaperone,HSP90AA1
+HSPA1B (HSP70 chaperone),HSP70 chaperone,HSPA1B
+LAMP1 (lysosome),lysosome,LAMP1
+MAP1LC3B (autophagosome),autophagosome,MAP1LC3B
+NCLN (ER),ER,NCLN
+PEX3 (peroxisome),peroxisome,PEX3
+PSMB7 (proteasome),proteasome,PSMB7
+RAB11A (recycling endosome),recycling endosome,RAB11A
+RAB14 (recycling endosome),recycling endosome,RAB14
+RAB1A (ER_Golgi),ER_Golgi,RAB1A
+RAB7A (lysosome),lysosome,RAB7A
+RPL36 (ribosome),ribosome,RPL36
+RTN4 (ER),ER,RTN4
+SEC23A (ER_Golgi),ER_Golgi,SEC23A
+SEC31A (ER_Golgi),ER_Golgi,SEC31A
+SEC61B (ER),ER,SEC61B
+SLC30A2 (plasma membrane),plasma membrane,SLC30A2
+TOMM20 (mitochondria),mitochondria,TOMM20
+VPS35 (endo_lysosome),endo_lysosome,VPS35
+YWHAQ (14-3-3),14-3-3,YWHAQ

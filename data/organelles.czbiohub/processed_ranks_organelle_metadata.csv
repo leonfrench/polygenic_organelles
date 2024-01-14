@@ -1,0 +1,21 @@
+cell_type,Markers
+14-3-3,YWHAQ
+actin,ACTB
+autophagosome,"ATG101,MAP1LC3B"
+centrosome,CEP350
+endo_lysosome,VPS35
+endosome,"CLTA,EEA1"
+ER,"CCDC47,NCLN,RTN4,SEC61B"
+ER_Golgi,"COPE,RAB1A,SEC23A,SEC31A"
+Golgi,"COG8,GOLGA2,GPR107"
+HSP70 chaperone,HSPA1B
+HSP90 chaperone,HSP90AA1
+lysosome,"LAMP1,RAB7A"
+mitochondria,TOMM20
+p-body,"DCP1A,EDC4"
+peroxisome,PEX3
+plasma membrane,"ATP1B3,CAV1,SLC30A2"
+proteasome,PSMB7
+recycling endosome,"RAB11A,RAB14"
+ribosome,RPL36
+stress granule,"CAPRIN1,G3BP1"
